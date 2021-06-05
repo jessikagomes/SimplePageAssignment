@@ -1,0 +1,112 @@
+	header{
+		padding-top: 60px;
+		padding-bottom: 60px;
+		text-align: center;
+    	font-family: Helvetica, Sans-Serif;
+	}
+	h1{
+		color: white;
+		font-size: 28pt;
+	}
+	h2{
+		padding-bottom: 20px;
+	}
+	h3{
+		color: black;
+	}
+	h4{
+		color: white;
+	}
+	#homePage{
+		text-align: center;
+		width: 1130px;
+		padding-top: 60px;
+		padding-bottom: 160px;
+		margin-left: auto;
+		margin-right: auto;
+		color: black;
+		font-family: Helvetica, Sans-Serif;
+		background-color: white;
+	}
+	
+	.class{
+		display: inline-block;
+		color: darkgray;
+		border: 1px solid darkgray;
+		/*margin-right: 100px;*/
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+	#classes{
+		
+		margin-bottom: 100px;
+	}
+	button{
+		display: inline-block;
+		margin-right: 5pt;
+		margin-left: 5pt;
+		height: 30pt;
+		width: 110pt;
+		font-weight: bold;
+
+	}
+	#btnForm{
+		margin-top: 20px;
+		border: none;
+		background-color: #ff0000;
+		color: white;
+	}
+	.btnRegular{
+		font-family: Helvetica, Sans-Serif;
+		color: red;
+		background-color: black;
+		border: 1px solid red;
+	}
+	.btnRegular:hover{
+		background-color: white;
+	}
+	img{
+		max-width:250px;
+    	max-height:250px;
+    	width: auto;
+    	height: auto;
+	}
+	#form{
+
+	}
+	input{
+		border: 1px solid lightgray;
+		height: 40pt;
+		width: 300pt;
+		margin: 20px 20px 20px 20px;
+		padding-left: 10px;
+		font-family: Helvetica, Sans-Serif;
+		color: lightgray;
+		font-size: 14px;
+	}
+	#message{
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+		text-align: left;
+		height: 120pt;
+		width: 640pt;
+	}
+	footer{
+		margin-left: auto;
+		margin-right: auto;	
+		padding-top: 30px;
+		font-family: Helvetica, Sans-Serif;
+		font-size: 10pt;
+		letter-spacing: 1px;
+		background-color: black;
+		color: white;
+		text-align: center;
+	}
+	.footer{
+		padding-bottom: 50px;
+		/*padding-left: 150px;*/
+		text-align: left;
+		display: inline-block;
+		margin-right: 160px;
+	}
